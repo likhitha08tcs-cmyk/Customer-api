@@ -1,4 +1,4 @@
 fastapi
 uvicorn
 pytest
-requests==999.0
+requests
