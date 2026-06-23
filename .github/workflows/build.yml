@@ -27,4 +27,4 @@ jobs:
           find .
 
       - name: Run Tests
-        run: |pytest tests -v
+        run: | pytest tests -v
